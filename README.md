@@ -19,5 +19,7 @@ O design do painel é tão atraente que você vai se sentir navegando em um parq
 **Tecnologias Utilizadas**
 
 --Excel e Power BI
+![Excel](https://img.shields.io/badge/Excel-0072C6?style=flat&logo=Microsoft-Excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=Power-BI&logoColor=black)
 
 Pronto para explorar e descobrir novas oportunidades? Vamos juntos alavancar suas vendas e fazer do seu e-commerce um verdadeiro sucesso! 🚀✨
